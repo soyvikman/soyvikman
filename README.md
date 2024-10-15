@@ -1,5 +1,5 @@
 ### Mi nombre es Victor Castro. Desarrollador Web Freelance. Estudiante de Maestría en Informática. Fanático de JS a rabiar. Amante del café, los libros, y el aprendizaje por cuenta propia. Si no sé como hacerlo, te puedo asegurar que voy a averiguarlo 🔎.
-### Lectura - TechLover - Esclavo de Netflix <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
+### Lectura - TechLover  <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
 
 ---
 <div align="center">
