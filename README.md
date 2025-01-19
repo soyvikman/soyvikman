@@ -1,49 +1,31 @@
-### Mi nombre es Victor Castro. Desarrollador Web Freelance. Estudiante de Maestría en Informática. Fanático de JS a rabiar. Amante del café, los libros, y el aprendizaje por cuenta propia. Si no sé como hacerlo, te puedo asegurar que voy a averiguarlo 🔎.
-### Lectura - TechLover  <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
+Hello, I'm Victor Castro! 👋
+Full Stack JavaScript Developer | PhD Student in Computer Science | Coffee and Book Enthusiast
 
----
-<div align="center">
-    <img src="https://media1.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="30%">
-</div>
+👨‍💻 About Me:
+Passionate Web Developer with experience working on global teams and delivering impactful projects.
+Currently pursuing a PhD in Computer Science at the University of Valparaíso, Chile.
+Avid fan of JavaScript (seriously, I love it!).
+Dedicated to self-learning and solving challenges: If I don't know how to do something, I'll figure it out! 🔎
+Coffee drinker ☕ | Book lover 📚 | Lifelong learner.
 
+🌟 My Work:
+International Web Projects for top clients like Disney, Deloitte, and more.
+Proficient in React, Node.js, Angular, MongoDB, AWS, and other cutting-edge technologies.
 
----
-<p align="center">
-<a href="https://github.com/soyvikman"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/soyvikman/"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-<a href="mailto:soyvikman@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
+Open to freelance collaborations and challenging projects!
 
----
-<!-- Talking about you -->
-**Acerca de mi:**
+🌐 Find Me Online:
+http://vickstack.dev
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/git-header.svg" />
+⚙️ Technologies and Tools:
+<p align="center"> <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code> <br /> <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code> <br /> <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> </p>
 
-- Ingeniero Proyectista 📈.
-- Estudiante de Maestría en Ciencias: Informática 📖.
-- Programador por autoaprendizaje 📝 y amor propio ❤️.
-- [Portafolio web antiguo](https://soyvikman.github.io/) 💼.
-- Fanático de la lectura 📕, el fútbol ⚽, los juegos online 💻.
-- Listo para un café ☕ o una cerveza 🍺.
+📈 Professional Highlights:
+Web Engineer | Disney, Deloitte (2021–Present): Delivered scalable web solutions for global teams.
+Front-End Developer | Claro (2021): Built responsive and interactive applications using the MEAN stack.
+Full-Stack Developer | Freelance (2018–2021): Specialized in developing full-stack solutions using React, Node.js, and MongoDB.
+Computer Science Educator (2018): Taught JavaScript, HTML, and CSS to aspiring developers.
 
-
----
-**Lenguajes y herramientas:** 
-
-<p>
-  
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <br />
-</p>
-
----
-
-
+🚀 Let's Collaborate:
+Open to freelance opportunities, collaborations, and challenging projects.
+Always excited to discuss new ideas over coffee or a virtual meeting!
