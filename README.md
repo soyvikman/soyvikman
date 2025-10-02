@@ -1,9 +1,9 @@
 Hello, I'm Victor Castro! 👋
-Full Stack JavaScript Developer | PhD Student in Computer Science | Coffee and Book Enthusiast
+Full Stack JavaScript Developer | Master in Computer Science | Coffee and Book Enthusiast
 
 👨‍💻 About Me:
 Passionate Web Developer with experience working on global teams and delivering impactful projects.
-Currently pursuing a PhD in Computer Science at the University of Valparaíso, Chile.
+Currently pursuing a Master in University of San Agustin, Arequipa / Peru.
 Avid fan of JavaScript (seriously, I love it!).
 Dedicated to self-learning and solving challenges: If I don't know how to do something, I'll figure it out! 🔎
 Coffee drinker ☕ | Book lover 📚 | Lifelong learner.
